@@ -53,7 +53,7 @@ function Home() {
         </div>
         <div id="image" className="w-full sm:w-1/2">
           <img
-            src="https://videos.openai.com/vg-assets/assets%2Ftask_01jy9ssmctfygs4ffbyeb7yqct%2F1750528302_img_0.webp?st=2025-06-21T16%3A07%3A20Z&se=2025-06-27T17%3A07%3A20Z&sks=b&skt=2025-06-21T16%3A07%3A20Z&ske=2025-06-27T17%3A07%3A20Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=3d249c53-07fa-4ba4-9b65-0bf8eb4ea46a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=tDKxMRrudscejsgjjU3rmcMe545awGUHmuYaJdJsk4Q%3D&az=oaivgprodscus"
+            src="src/asset/home.png"
             alt=""
             className="w-full h-[80vh] object-contain"
           />
