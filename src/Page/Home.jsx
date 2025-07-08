@@ -4,6 +4,7 @@ import { HiOutlineDocumentSearch } from "react-icons/hi";
 import { LiaBusinessTimeSolid } from "react-icons/lia";
 import { MdOutlineIosShare } from "react-icons/md";
 import { Link } from "react-router-dom";
+import image from "../asset/home.png";
 
 function Home() {
   useGSAP(() => {
@@ -52,11 +53,7 @@ function Home() {
           </div>
         </div>
         <div id="image" className="w-full sm:w-1/2">
-          <img
-            src="src/asset/home.png"
-            alt=""
-            className="w-full h-[80vh] object-contain"
-          />
+          <img src={image} alt="" className="w-full h-[80vh] object-contain" />
         </div>
       </div>
       <div className="w-full h-full bg-gradient-to-t from-gray-100 to-white p-10 flex gap-10 flex-col items-center">
