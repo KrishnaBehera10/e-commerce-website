@@ -1,4 +1,5 @@
-E-Commerce Website
+E-Commerce Website  
+
 🛒 Overview
 This is a frontend e-commerce application built using HTML, CSS (Tailwind CSS), JavaScript, and Redux. The app allows users to browse products, log in, manage their cart, and for admins to add or update product listings. A simple JSON server is used as a mock backend to simulate real-world functionality.
 
