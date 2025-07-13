@@ -1,12 +1,44 @@
-# React + Vite
+E-Commerce Website
+Live Demo: Click Here
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🛒 Overview
+This is a frontend e-commerce application built using HTML, CSS (Tailwind CSS), JavaScript, and Redux. The app allows users to browse products, log in, manage their cart, and for admins to add or update product listings. A simple JSON server is used as a mock backend to simulate real-world functionality.
 
-Currently, two official plugins are available:
+💡 Features
+User Functionality
+User registration and login/logout
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Browse product listings
 
-## Expanding the ESLint configuration
+Filter products
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Add products to cart
+
+View cart items
+
+Profile update functionality
+
+Admin Functionality
+Admin login
+
+Create new product listings
+
+Update existing products
+
+General
+State management using Redux
+
+Responsive design using Tailwind CSS
+
+JSON server used as a mock backend
+
+🧰 Tech Stack
+Frontend: HTML, CSS (Tailwind CSS), JavaScript
+
+State Management: Redux
+
+Mock Backend: JSON Server
+
+Version Control: Git & GitHub
+
+Deployment: GitHub Pages
